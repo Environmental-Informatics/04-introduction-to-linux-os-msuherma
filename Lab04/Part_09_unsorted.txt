@@ -1,0 +1,12 @@
+Mo apples 20
+Ibrahim blueberry 15
+Laily melon 3
+Fred oranges 10
+Susy watermelons 4
+Tom strawberry 25
+Emily banana 12
+Pam grapes 30
+Daniel mangoes 4
+Dave pineapples 2
+Oliver pears 6
+

@@ -1,0 +1,9 @@
+This is my first Linux learning using this bash
+Frankly, I had no clue that there is an 'keyboard-based' OS like Linux
+
+Add the content here:
+
+Keyboard-based OS is a term I used to describe Linux so far
+
+
+last line
